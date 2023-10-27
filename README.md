@@ -18,3 +18,15 @@
 فارسی ، انگلیس،  عربی ، ترکی ، چینی ساده شده ، روسی و کره‌ای اشاره کرد .
 </p>
 
+<h2>درباره اسمش </h2>
+<p> انسی یا ency مخفف <b>encyclopedia Bot</b> به معنای ربات دانشنامه است . </p>
+<p> این یک نرم افزار ویندوزیست که توضیحی درباره کلمه وارد شده اراعه میدهد . </p>
+
+
+<div class="figure">
+  <img src="https://www.uplooder.net/img/image/89/47bb0819720acfcb2e784e2e0beca052/Screenshot-(63).png"
+       alt="The head and torso of a dinosaur skeleton;
+            it has a large head with long sharp teeth"
+       width="700"
+       title = " چت بات انسی  " 
+       height="400">
