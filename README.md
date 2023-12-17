@@ -2,7 +2,7 @@
 ! ربات دانشنامه انسی با بیش از 11 میلیون مقاله  با هفت زبان زنده دنیا
 
 <div class="figure">
-  <img src="https://www.uplooder.net/img/image/51/0f13287059e177c2c003f0426ec4bca2/Screenshot-(62).png"
+  <img src="https://www.uplooder.net/img/image/70/66e88cd42dcdda4e0d19631f3db03f98/Screenshot-(105).png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
        width="700"
@@ -24,12 +24,18 @@
 
 
 <div class="figure">
-  <img src="https://www.uplooder.net/img/image/89/47bb0819720acfcb2e784e2e0beca052/Screenshot-(63).png"
+  <img src="https://www.uplooder.net/img/image/88/c412595091002cc764222835ad796130/Screenshot-(104).png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
        width="700"
        title = " چت بات انسی  " 
        height="400">
+
+<h2>انسی چه کار هایی میتونه انجام بده ؟  </h2>
+
+<p> انسی کارهای محدودی رو  تطبق چیزی که بهش آموزش دادیم پاسخ یا خروجی مناسبی میدهد . با این حال کار هایی کا میتواند انجام دهد را در زیر آوردیم: </p>
+
+<h3> 1) می تونه در باره هرچی که خواستین به هر زبانی مقاله بنویسه! </h3>
 
 <h2>نحوه کار</h2>
 <p>این برنامه مثل تمام <a href=https://fa.wikipedia.org/wiki/%DA%86%D8%AA%E2%80%8C%D8%AC%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%AA%DB%8C>بات های مکالمه </a> اطلاعاتش را از یک دیتای بزرگ استخراج میکند</a>  </p>
