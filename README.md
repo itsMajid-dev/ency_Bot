@@ -7,7 +7,7 @@
             it has a large head with long sharp teeth"
        width="700"
        title = " چت بات انسی  " 
-       height="400">
+       height="300">
 
 <h2>انسی چیه؟ </h2>
 <p>اِنسی (انگلیسی: ency) <a href=https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AA_%D9%85%DA%A9%D8%A7%D9%84%D9%85%D9%87>یک بات دانشنامه </a> است که با زبان پایتون  توسعه یافته‌است؛
