@@ -24,7 +24,7 @@
 
 
 <div class="figure">
-  <img src="https://www.uplooder.net/img/image/88/c412595091002cc764222835ad796130/Screenshot-(104).png"
+  <img src="https://www.uplooder.net/img/image/60/8965c1240f5c8ec312af311a525bd509/Screenshot-(95).png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
        width="700"
@@ -57,7 +57,7 @@
        height="400">
 
 
-<h3>می تونه جوک بگه  </h3>
+<h3> 3) می تونه جوک بگه  </h3>
 
 <div class="figure">
   <img src="https://www.uplooder.net/img/image/84/c81206a692e29f39f5387b03a639741d/Screenshot-(102).png"
@@ -66,7 +66,20 @@
        title = " چت بات انسی  " 
        height="400">
 
-پ
+
+<h3> 4) می تونی قیمت ارز ها رو ازش بخوای  </h3>
+
+<div class="figure">
+  <img src="https://www.uplooder.net/img/image/35/3ca58b6ccf1aa0b60549e5d50f8e1dd4/Screenshot-(101).png"
+       alt=""
+       width="700"
+       title = " چت بات انسی  " 
+       height="400">
+
+<h3> 5) میتونه فکت بگه  </h3>
+<h3> 6) و کار های دیگه</h3>
+
+
 <h2>نحوه کار</h2>
 <p>این برنامه مثل تمام <a href=https://fa.wikipedia.org/wiki/%DA%86%D8%AA%E2%80%8C%D8%AC%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%AA%DB%8C>بات های مکالمه </a> اطلاعاتش را از یک دیتای بزرگ استخراج میکند</a>  </p>
 <p>این منبع برای انسی سرور بزرگ ویکی پدیا ست</p>
